@@ -1,0 +1,30 @@
+{
+    "name": "TheFamousSnakeHouse",
+    "description": "A theme about the snake house which is popular within a movie and book about wizards.",
+    "version": "0.1.0",
+    "theme": true,
+    "require": {
+        "matomo": ">=5.0.0-b5,<6.0.0-b1"
+    },
+    "stylesheet": "stylesheets\/theme.less",
+    "homepage": "",
+    "license": "GPL v3+",
+    "keywords": [snake, slytherin, HP],
+    "support": {
+        "email": "contact@ronan-chardonneau.com",
+        "issues": "https://github.com/Chardonneaur/TheFamousSnakeHouse/issues",
+        "forum": "",
+        "irc": "",
+        "source": "",
+        "docs": "",
+        "wiki": "",
+        "rss": ""
+    },
+    "authors": [
+        {
+            "name": "Ronan Chardonneau",
+            "email": "contact@ronan-chardonneau.com",
+            "homepage": "https://ronan-chardonneau.com"
+        }
+    ]
+}
