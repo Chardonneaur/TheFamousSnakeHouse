@@ -9,7 +9,7 @@
     "stylesheet": "stylesheets\/theme.less",
     "homepage": "",
     "license": "GPL v3+",
-    "keywords": [snake, slytherin, HP],
+    "keywords": ["snake", "slytherin", "HP"],
     "support": {
         "email": "contact@ronan-chardonneau.com",
         "issues": "https://github.com/Chardonneaur/TheFamousSnakeHouse/issues",
